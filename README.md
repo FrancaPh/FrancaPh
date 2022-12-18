@@ -1,7 +1,7 @@
 # 💫 About Me:
 📖 I’m currently studing on 3th grade<br>
 🌱 I’m currently learning to program properly<br>
-🧑‍💻 i'm currently in front a computer<br>
+🧑‍💻 i'm probably in front a computer<br>
 ⚡ E = m . c²
 
 
