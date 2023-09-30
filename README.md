@@ -1,10 +1,3 @@
-# 💫 About Me:
-📖 I’m currently studing on 3th grade<br>
-🌱 I’m currently learning to program properly<br>
-🧑‍💻 i'm probably in front a computer<br>
-⚡ E = m . c²
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/francaph_) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/francaph_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/PedroFranca1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/FrancaPh_) 
 
