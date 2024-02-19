@@ -41,7 +41,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/pedro-henrique-franca-927b3228a/" target="_blank">
+  <a href="www.linkedin.com/in/pedro-henrique-franca-correia" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/FrancaPh_" target="_blank">
