@@ -5,12 +5,8 @@
 <p align="left">My name is Pedro and I'm a Hardware Engineer, from Brazil</p>
 
 ###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🔭 Currently working on optimizing IoT device systems.<br>👯 Seeking collaboration on PCB design and firmware projects.<br>🤝 Need help refining signal processing algorithms and power management solutions.<br>🌱 Learning about emerging hardware technologies.<br>💬 Ask me about hardware design, circuit analysis, and microcontroller programming.<br>⚡ Fun fact: The first computer bug was an actual moth found in a computer relay.</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancaPh&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FrancaPh&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ###
 
