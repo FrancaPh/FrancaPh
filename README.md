@@ -5,7 +5,6 @@
 <p align="left">My name is Pedro and I'm a Hardware Engineer, from Brazil</p>
 
 ###
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancaPh&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FrancaPh&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ###
